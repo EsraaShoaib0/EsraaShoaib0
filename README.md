@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esraa Ashraf</h1>
 <h3 align="center">Computer Engineering Fresh graduate</h3>
 
-- 🌱 I’m currently learning **Embedded Systems**
+- 🌱 I’m currently learning **Backend Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EsraaShoaib0](https://github.com/EsraaShoaib0)
 
